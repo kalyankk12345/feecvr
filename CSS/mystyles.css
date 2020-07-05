@@ -43,5 +43,11 @@ header {
 
 .card-body, .jumbotron, .modal-body {
     background: linear-gradient(0deg,#484848 0%,#ffffff 100%);
-    color:  rgb(70,1,135);
+    color:  black;
+}
+a{
+    color:darkred;
+}
+a:hover{
+    color:darkred;
 }
