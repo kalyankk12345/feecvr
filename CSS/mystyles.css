@@ -20,3 +20,28 @@
 .heading{
     padding-top: 40px;
 }
+
+header {
+    margin-top: 40px;
+}
+
+.row-content {
+    padding-top: 20px;
+    padding-bottom: 40px;
+    border-bottom: 1px solid lavender;
+    color:  lightskyblue;
+}
+
+.card {
+    margin-top: 10px;
+}
+
+ nav, .card-header, .modal-header, .card-footer  {
+    background: linear-gradient(0deg,#000000 0%,#e74c3c 100%);
+    color: floralwhite;
+}
+
+.card-body, .jumbotron, .modal-body {
+    background: linear-gradient(0deg,#484848 0%,#ffffff 100%);
+    color:  rgb(70,1,135);
+}
